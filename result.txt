@@ -1,0 +1,3 @@
+ALIVE → Rick Sanchez, Morty Smith, Summer Smith, Beth Smith, Jerry Smith, Abadango Cluster Princess, Annie, Antenna Morty
+DEAD → Adjudicator Rick, Agency Director, Alan Rails, Albert Einstein, Alexander, Amish Cyborg
+UNKNOWN → Abradolf Lincler, Alien Googah, Alien Morty, Alien Rick, Antenna Rick, Ants in my Eyes Johnson
